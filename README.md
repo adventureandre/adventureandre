@@ -5,7 +5,7 @@
 Meu nome é **André Luíz**, tenho 32 anos e moro na cidade de Leopoldo de Bulhões/GO. Sou um Desenvolvedor FullStack, mas estou estudando para me tornar cada vez melhor no que amo ! :heart:
 
 Está afim de conversar?
-- :speech_balloon: Me adicione no Telegran: [`TiaGoiNsaNy#9903`](https://discord.com/users/568182075929395210)
+- :speech_balloon: Me adicione no Instagram: [`adventureandre`](https://www.instagram.com/adventureandre/)
 - :mailbox: Mande um Email: [`admin@funilariaepintura.com.br`](maito:admin@funilariaepintura.com.br)
 - :busts_in_silhouette: Me adicione no Linkedin: [linkedin.com/in/adventureandre](https://www.linkedin.com/in/adventureandre)
 
