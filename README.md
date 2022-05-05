@@ -1,6 +1,6 @@
 <img align="right" src="https://raw.githubusercontent.com/adventureandre/andre/master/andre-avatar.jpg?raw=true" width="300"/>
 
-## Vou fazer Mágica no seu Código! :zap:
+## Desenvolvedor Full Stack! :zap:
 
 Meu nome é **André Luíz**, tenho 32 anos e moro na cidade de Leopoldo de Bulhões/GO. Sou um Desenvolvedor FullStack, mas estou estudando para me tornar cada vez melhor no que amo ! :heart:
 
