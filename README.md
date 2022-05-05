@@ -1,4 +1,4 @@
-<img align="right" src="https://github.com/TiaGoiNsaNy/TiaGoiNsaNy/blob/main/tiago-avatar.png?raw=true" width="300"/>
+<img align="right" src="https://raw.githubusercontent.com/adventureandre/andre/master/andre-avatar.jpg?raw=true" width="300"/>
 
 ## Vou fazer Mágica no seu Código! :zap:
 
