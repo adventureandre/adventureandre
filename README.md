@@ -2,7 +2,7 @@
 
 ## Desenvolvedor Full Stack! :zap:
 
-Meu nome é **André Luíz**, tenho 32 anos e sou de Goias. Sou um Desenvolvedor FullStack. E estou estudando para me tornar cada vez melhor no que amo ! :heart:
+Meu nome é **André Luíz**, tenho 33 anos e sou de Goias. Sou um Desenvolvedor FullStack. E estou estudando para me tornar cada vez melhor no que amo ! :heart:
 
 Está afim de conversar?
 - :speech_balloon: Me adicione no Instagram: [`adventureandre`](https://www.instagram.com/adventureandre/)
