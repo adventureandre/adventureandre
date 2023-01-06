@@ -6,7 +6,7 @@ Meu nome é **André Luíz**, tenho 33 anos e sou de Goias. Sou um Desenvolvedor
 
 Está afim de conversar?
 - :speech_balloon: Me adicione no Instagram: [`adventureandre`](https://www.instagram.com/adventureandre/)
-- :mailbox: Mande um Email: [`admin@funilariaepintura.com.br`](maito:admin@funilariaepintura.com.br)
+- :mailbox: Mande um Email: [`admin@adventure.dev.br`](maito:admin@adventure.dev.br)
 - :busts_in_silhouette: Me adicione no Linkedin: [linkedin.com/in/adventureandre](https://www.linkedin.com/in/adventureandre)
 
 <br>
