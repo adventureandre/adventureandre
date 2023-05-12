@@ -13,7 +13,7 @@ Está afim de conversar?
 
 **My Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,html,git,css,php,bootstrap,sass,docker,linux,mongodb,mysql,nodejs,nextjs,express,jquery,electron,firebase)](https://www.adventure.dev.br)
+[![My Skills](https://skillicons.dev/icons?i=js,react,ts,html,git,css,php,bootstrap,sass,docker,linux,mongodb,mysql,postman,nodejs,nextjs,express,jquery,electron,firebase,vue,angular)](https://www.adventure.dev.br)
 
 
 
