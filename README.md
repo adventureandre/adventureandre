@@ -13,7 +13,7 @@ Está afim de conversar?
 
 **My Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,php)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,html,css,php,bootstrap,docker,linux,mongodb,mysql,nodejs,nextjs,)](https://skillicons.dev)
 
 
 
