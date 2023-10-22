@@ -1,5 +1,3 @@
-<img align="right" src="https://raw.githubusercontent.com/adventureandre/andre/master/andre-avatar.jpg?raw=true" width="300"/>
-
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=1000&pause=500&color=921C9C&repeat=false&width=435&lines=Bem+Vindos!;Sou+Andre+Luiz;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
 
 Meu nome é **André Luíz**, tenho 33 anos e sou de Goias. Sou um Desenvolvedor FullStack. E estou estudando para me tornar cada vez melhor no que amo ! :heart:
