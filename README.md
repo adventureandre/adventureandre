@@ -10,9 +10,9 @@
 Meu nome é **André Luíz**, tenho 34 anos e sou de Goias. Sou um Desenvolvedor FullStack. E estou estudando para me tornar cada vez melhor no que amo ! :heart:
 
 Está afim de conversar?
-- :speech_balloon: Me adicione no Instagram: [`adventureandre`](https://www.instagram.com/adventureandre/)
-- :mailbox: Mande um Email: [`admin@adventure.dev.br`](maito:admin@adventure.dev.br)
-- :busts_in_silhouette: Me adicione no Linkedin: [linkedin.com/in/adventureandre](https://www.linkedin.com/in/adventureandre)
+- Me adicione no Instagram: [`adventureandre`](https://www.instagram.com/adventureandre/)
+- Mande um Email: [`admin@adventure.dev.br`](maito:admin@adventure.dev.br)
+- Me adicione no Linkedin: [linkedin.com/in/adventureandre](https://www.linkedin.com/in/adventureandre)
 
 <br>
 
