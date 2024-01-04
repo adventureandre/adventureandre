@@ -13,7 +13,7 @@ Meu nome é **André Luíz**, tenho 34 anos e sou de Goias. Sou um Desenvolvedor
 
 **My Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,html,php,bootstrap,sass,docker,linux,mongodb,mysql,express,electron,firebase,tailwind)](https://www.adventure.dev.br) 
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,html,php,bootstrap,sass,docker,linux,mongodb,mysql,express,electron,firebase,tailwind,prisma)](https://www.adventure.dev.br) 
 
 <details>
   <summary>Contatos</summary>
