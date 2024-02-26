@@ -5,11 +5,7 @@
   </a>
 </div>
 
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=1000&pause=500&color=921C9C&repeat=false&width=435&lines=Bem+Vindos!;Sou+Andre+Luiz;Desenvolvedor+Full+Stack)](https://git.io/typing-svg)
-
-Software Developer :heart:
-
-
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=21&duration=1000&pause=500&color=921C9C&repeat=false&width=435&lines=Bem+Vindos!;Sou+Andre+Luiz;Software+Developer)](https://git.io/typing-svg)
 
 **My Skills**
 
