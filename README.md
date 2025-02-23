@@ -9,7 +9,7 @@
 
 **My Skills**
 
-[![My Skills](https://skillicons.dev/icons?i=aws,azure,ts,react,vite,nextjs,nestjs,nodejs,html,php,bootstrap,sass,docker,prisma,mongodb,mysql,express,electron,firebase,tailwind,linux)](https://www.adventure.dev.br) 
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,ts,react,vite,nextjs,nestjs,nodejs,html,php,spring,bootstrap,sass,docker,prisma,mongodb,mysql,express,electron,firebase,tailwind,linux)](https://www.adventure.dev.br) 
 
 <details>
   <summary>Contatos</summary>
